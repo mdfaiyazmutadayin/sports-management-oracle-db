@@ -1,7 +1,5 @@
 # sports-management-oracle-db
 
-# Sports Management System — Oracle SQL
-
 A relational database project for managing football leagues, teams, 
 players, coaches, matches, and schedules using Oracle SQL.
 
