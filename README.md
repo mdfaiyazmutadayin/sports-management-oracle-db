@@ -24,7 +24,7 @@ players, coaches, matches, and schedules using Oracle SQL.
 1. Run `sql/01_create_tables.sql` to create schema
 2. Run `sql/02_insert_data.sql` to populate data
 3. Run `sql/03_queries.sql` for query outputs
-4. Run `sql/04_views.sql` to create views
+
 
 ## Sample Output
 [paste screenshots here]
